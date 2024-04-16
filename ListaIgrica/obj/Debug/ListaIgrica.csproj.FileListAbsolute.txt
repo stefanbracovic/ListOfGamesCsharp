@@ -1,0 +1,62 @@
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\DataIgrice.mdf
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\DataIgrice_log.ldf
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.exe.config
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.exe
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.pdb
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csprojAssemblyReference.cache
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.Form1.resources
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.Properties.Resources.resources
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.GenerateResource.cache
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.CoreCompileInputs.cache
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.CopyComplete
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.exe
+C:\Users\Mitrandir\source\repos\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.pdb
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\DataIgrice.mdf
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\DataIgrice_log.ldf
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.exe.config
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.exe
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.pdb
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Security.AccessControl.dll
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Permissions.dll
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Security.AccessControl.xml
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Permissions.xml
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.Form1.resources
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.Properties.Resources.resources
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.exe
+C:\Users\stefa\Desktop\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.pdb
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\DataIgrice.mdf
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\DataIgrice_log.ldf
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.exe.config
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.exe
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\ListaIgrica.pdb
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Security.AccessControl.dll
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Permissions.dll
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Security.AccessControl.xml
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Permissions.xml
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.Form1.resources
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.Properties.Resources.resources
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.csproj.CopyComplete
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.exe
+C:\Users\stefa\Documents\ITS\III Semestar\Programerski alati\ListaIgrica\ListaIgrica\obj\Debug\ListaIgrica.pdb
